@@ -20,7 +20,6 @@ It is recommended to use a virtual environment:
     python -m venv venv
     source venv/bin/activate  # For Linux/macOS
     venv\Scripts\activate  # For Windows
-    pip install -r requirements.txt
 ```
 ### 3. Download the Dataset
 Download the CSV file from Kaggle and save it in the `data/` folder.
